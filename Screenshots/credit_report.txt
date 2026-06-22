@@ -1,0 +1,7 @@
+
+AI Credit Scoring Report
+
+Credit Score: 532
+Risk Level: 🔴 High Risk
+Loan Decision: ❌ REJECTED
+Default Probability: 57.77%
